@@ -37,7 +37,7 @@
     "573136463626@s.whatsapp.net": {
       "afk": -1,
       "afkReason": "",
-      "age": 0,
+      "age": 18,
       "banned": false,
       "BannedReason": "",
       "Banneduser": false,
@@ -45,11 +45,11 @@
       "money": 150,
       "premium": false,
       "premiumTime": 0,
-      "name": "a",
-      "regTime": -1,
-      "registered": false,
+      "name": "Kevinͧͧͧͦꙶͣͤ✓ᚲᴳᴮ",
+      "regTime": 1687729267216,
+      "registered": true,
       "role": "*NOVATO(A)* 🪤",
-      "exp": 37
+      "exp": 100
     }
   },
   "chats": {
@@ -156,10 +156,10 @@
   },
   "stats": {
     "menu-menu.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1687728721156,
-      "lastSuccess": 1687728721156
+      "total": 5,
+      "success": 5,
+      "last": 1687729284721,
+      "lastSuccess": 1687729284721
     },
     "info.js": {
       "total": 8,
@@ -174,10 +174,10 @@
       "lastSuccess": 1687728378141
     },
     "rpg-verificar.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1687728341184,
-      "lastSuccess": 1687728341184
+      "total": 4,
+      "success": 4,
+      "last": 1687729268740,
+      "lastSuccess": 1687729268740
     },
     "sticker-sticker.js": {
       "total": 2,
@@ -197,7 +197,7 @@
       "antiCall": true,
       "antiPrivate": false,
       "jadibotmd": false,
-      "status": 1687728768253
+      "status": 1687729281055
     }
   }
 }

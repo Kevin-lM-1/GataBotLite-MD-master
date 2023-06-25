@@ -27,10 +27,10 @@ global.prems = []
 global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
-global.openai_key = 'sk-...2RdD'
+global.openai_key = 'sk-.2R'
 
 // ES ➜ Consigue tu ID de organizacion en: https://platform.openai.com/account/org-settings
-global.openai_org_id = 'org-IWyo0Jn2D5tZFEo5UbqbwIVh'
+global.openai_org_id = 'org-Iw'
 
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -77,7 +77,7 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
+global.packname = '𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
 global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto

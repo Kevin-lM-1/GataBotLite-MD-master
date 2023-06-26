@@ -99,7 +99,7 @@ global.gt = '𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
 global.yt = 'https://youtube.com'
 global.yt2 = 'https://www.youtube.com'
 global.ig = 'https://www.instagram.com'
-global.md = 'https://github.com'
+global.md = 'https://github.com/Kevin-lM-1/GataBotLite-MD-master'
 global.fb = 'https://www.facebook.com'
 
 global.nna = 'https://chat.whatsapp.com' //UPDATE GATABOT

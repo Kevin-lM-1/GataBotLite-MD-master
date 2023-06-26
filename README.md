@@ -30,41 +30,21 @@
 </a>
 </div>
 
-### ✅ GATABOTLITE OFICIAL
 
-<a href="http://wa.me/593993684821?text=.menu" target="blank"><img src="https://img.shields.io/badge/1️⃣_𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/573136855110?text=.menu" target="blank"><img src="https://img.shields.io/badge/2️⃣_𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50663323306?text=.menu" target="blank"><img src="https://img.shields.io/badge/3️⃣_𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/13127783058?text=.menu" target="blank"><img src="https://img.shields.io/badge/4️⃣_𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5215582305685?text=.menu" target="blank"><img src="https://img.shields.io/badge/5️⃣_𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
   
 #### DISPONIBLE EN:
 > - [x] TERMUX, REPLIT, WINDOWS, HEROKU, ZIPPONODES, BOXMINE-HOST
 
 
 [`♻️ App Termux`](https://f-droid.org/es/packages/com.termux/)
-### 🌸 INSTALACIÓN AUTOMÁTICA - TERMUX 🌸
-<a href="https://youtu.be/tzM0f_N8BII">
-<img src="https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Tutorial"> </a>
 
-```bash
-termux-setup-storage
-```
-```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget && wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBotLite-MD/master/gatalite.sh | bash
-```
-#### EN CASO QUE QUIERA USAR ESTE MÉTODO DEBE DE EDITAR (Previo a una Bifurcación)
-- [`Repositorio`](https://github.com/GataNina-Li/GataBotLite-MD/blob/14da583cddcf76285988dadb76cfc77f9373d8a8/gatalite.sh#L155)
-- [`Nombre del Bot`](https://github.com/GataNina-Li/GataBotLite-MD/blob/14da583cddcf76285988dadb76cfc77f9373d8a8/gatalite.sh#L159)
-- Actualizar: `https://raw.githubusercontent.com/GataNina-Li/GataBotLite-MD/master/gatalite.sh`
 ### 🌼 INSTALACIÓN MANUAL - TERMUX 🌼
 ```bash
 termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-git clone https://github.com/GataNina-Li/GataBotLite-MD 
+git clone https://github.com/Kevin-lM-1/GataBotLite-MD-master
 cd GataBotLite-MD
 yarn install
 npm install
@@ -125,7 +105,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
 ```bash
 git clone https://github.com/GataNina-Li/GataBotLite-MD
-cd GataBotLite-MD
+cd GataBotLite-MD-master
 npm install -g yarn
 yarn
 npm install 
@@ -165,4 +145,4 @@ Set-ExecutionPolicy RemoteSigned
 ----
 
 ### 🌟 CREADORA 
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+[![GataNina-Li]() 
